@@ -1,5 +1,3 @@
---By RenildoMarcio
---Discord 𝓡𝓮𝓷𝓲𝓵𝓭𝓸𝓜𝓪𝓻𝓬𝓲𝓸#2815
 ESX = nil
 
 Citizen.CreateThread(function()
